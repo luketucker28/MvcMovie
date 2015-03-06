@@ -22,7 +22,8 @@ using System.Linq;
                     ReleaseDate = DateTime.Parse("1989-1-11"),
                     Genre = "Romantic Comedy",
                     Rating = "PG",
-                    Price = 7.99M
+                    Price = 7.99M,
+                    Razzle = false
                 },
 
                 new Movie
@@ -31,7 +32,9 @@ using System.Linq;
                     ReleaseDate = DateTime.Parse("1984-3-13"),
                     Genre = "Comedy",
                     Rating = "PG",
-                    Price = 8.99M
+                    Price = 8.99M,
+                    Razzle = true
+
                 },
 
                 new Movie
@@ -40,7 +43,8 @@ using System.Linq;
                     ReleaseDate = DateTime.Parse("1984-3-13"),
                     Genre = "Comedy",
                     Rating = "PG",
-                    Price = 3.99M
+                    Price = 3.99M,
+                    Razzle = false
                 }
                 );
         }

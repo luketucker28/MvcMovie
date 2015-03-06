@@ -178,6 +178,10 @@
     <Compile Include="Migrations\201503060351258_DataAnnotations.Designer.cs">
       <DependentUpon>201503060351258_DataAnnotations.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201503061844350_Razzle.cs" />
+    <Compile Include="Migrations\201503061844350_Razzle.Designer.cs">
+      <DependentUpon>201503061844350_Razzle.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
@@ -214,7 +218,9 @@
     <Content Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
-    <Content Include="Views\Web.config" />
+    <Content Include="Views\Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
@@ -269,6 +275,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201503060351258_DataAnnotations.resx">
       <DependentUpon>201503060351258_DataAnnotations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201503061844350_Razzle.resx">
+      <DependentUpon>201503061844350_Razzle.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

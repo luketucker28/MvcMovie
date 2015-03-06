@@ -55,5 +55,5 @@ c:\users\lucas\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug
 c:\users\lucas\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
 c:\users\lucas\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
 c:\users\lucas\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
-c:\users\lucas\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
 c:\users\lucas\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.resources
+C:\Users\lucas\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Razzle.resources
